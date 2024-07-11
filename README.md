@@ -34,8 +34,6 @@ sms-sender/
 ## Installation
 1. Clonez ce dépôt :
    ```
-   git clone https://github.com/votre-username/sms-sender.git
-   ```
 2. Installez les dépendances via Composer :
    ```
    composer install
